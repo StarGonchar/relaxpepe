@@ -56,7 +56,7 @@ export default {
         {
           title: 'Relax Pepe #032',
           description: 'PepeRick',
-          img: '37.png',
+          img: '36.png',
           link:
             'https://rarible.com/token/0x79741245a85b6ef4d22cf928b87ee69ef6f872c6:50:0x1f87338e6689159fbbce349230b4087cdd18e838',
         },
