@@ -1,0 +1,57 @@
+@import 'components/base';
+@import 'components/mixins';
+@import 'components/slider';
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: center;
+  background-image: url('../img/footer-bg.svg');
+  background-repeat: no-repeat;
+  background-size: 312px 186px;
+  background-position: bottom center;
+  padding-bottom: 286px;
+}
+
+.header {
+  margin-top: 7.5rem;
+  margin-bottom: 3.125rem;
+}
+
+h2 {
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  line-height: 1.75;
+}
+
+.logo {
+  @include text-hide();
+
+  background-image: url('../img/logo.svg');
+  width: 305px;
+  height: 79px;
+  margin: 0 auto 0.625rem;
+}
+
+.links {
+  margin-top: -0.813rem;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  z-index: 10;
+
+  .link {
+    &:not(:last-child) {
+      margin-right: 2.5rem;
+    }
+
+    .icon {
+      height: 36px;
+      width: 36px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+}

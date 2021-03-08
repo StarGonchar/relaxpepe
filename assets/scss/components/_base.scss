@@ -1,0 +1,23 @@
+@import '~minireset.css/minireset.sass';
+@import '@splidejs/splide/dist/css/splide-core.min.css';
+
+html {
+  background-color: #f8d949;
+  font-size: 16px;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  min-width: 320px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.5;
+}
