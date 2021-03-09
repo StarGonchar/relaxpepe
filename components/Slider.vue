@@ -19,6 +19,13 @@ export default {
     return {
       slides: [
         {
+          title: 'Relax Pepe #039',
+          description: 'GhostPepe',
+          img: '44.png',
+          link:
+            'https://rarible.com/token/0x79741245a85b6ef4d22cf928b87ee69ef6f872c6:59:0x83fa662610b204080bcdbf1345905d86744a7495',
+        },
+        {
           title: 'Relax Pepe #038',
           description: 'DetectivePepe',
           img: '43.jpg',
