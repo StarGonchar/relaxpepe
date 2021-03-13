@@ -18,6 +18,34 @@ export default {
   data() {
     return {
       slides: [
+      {
+          title: 'Relax Pepe #047',
+          description: 'Pepes Home [Rare]',
+          img: '53.jpg',
+          link:
+            'https://rarible.com/token/0x79741245a85b6ef4d22cf928b87ee69ef6f872c6:71:0x83fa662610b204080bcdbf1345905d86744a7495',
+        },
+      {
+          title: 'Relax Pepe #046',
+          description: 'OgrePepe [Common]',
+          img: '54.jpg',
+          link:
+            'https://rarible.com/token/0x79741245a85b6ef4d22cf928b87ee69ef6f872c6:68:0x83fa662610b204080bcdbf1345905d86744a7495',
+        },
+       {
+          title: 'Relax Pepe #045',
+          description: 'DogePepe [Unique]',
+          img: '52.jpg',
+          link:
+            'https://rarible.com/token/0x79741245a85b6ef4d22cf928b87ee69ef6f872c6:66:0x83fa662610b204080bcdbf1345905d86744a7495',
+        },
+       {
+          title: 'Relax Pepe #044',
+          description: 'The Queen [Rare]',
+          img: '51.jpg',
+          link:
+            'https://rarible.com/token/0x79741245a85b6ef4d22cf928b87ee69ef6f872c6:65:0x83fa662610b204080bcdbf1345905d86744a7495',
+        },
         {
           title: 'Relax Pepe #043',
           description: 'ZombiePepe(Rare)',
