@@ -18,7 +18,28 @@ export default {
   data() {
     return {
       slides: [
-      {
+    {
+          title: 'Relax Pepe #050',
+          description: 'ZombiePepe v.2.0 [Unique]]',
+          img: '55.jpg',
+          link:
+            'https://rarible.com/token/0x79741245a85b6ef4d22cf928b87ee69ef6f872c6:75:0x83fa662610b204080bcdbf1345905d86744a7495',
+        },
+    {
+          title: 'Relax Pepe #049',
+          description: 'MexicanPepe [Rare]',
+          img: '56.jpg',
+          link:
+            'https://rarible.com/token/0x79741245a85b6ef4d22cf928b87ee69ef6f872c6:74:0x83fa662610b204080bcdbf1345905d86744a7495',
+        },
+    {
+          title: 'Relax Pepe #048',
+          description: 'MoodPepe [Common]',
+          img: '57.jpg',
+          link:
+            'https://rarible.com/token/0x79741245a85b6ef4d22cf928b87ee69ef6f872c6:73:0x83fa662610b204080bcdbf1345905d86744a7495',
+        },
+     {
           title: 'Relax Pepe #047',
           description: 'Pepes Home [Rare]',
           img: '53.jpg',
